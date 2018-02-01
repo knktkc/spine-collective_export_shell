@@ -1,0 +1,11 @@
+{
+"class": "com.esotericsoftware.spine.editor.Prefs$ExportVideos",
+"videoType": "AVI",
+"codec": "MJPEG",
+"images": true,
+"bones": false,
+"background": { "r": 0.23529412, "g": 0.23529412, "b": 0.23529412, "a": 1 },
+"quality": 60,
+"fps": 30,
+"others": false
+}
